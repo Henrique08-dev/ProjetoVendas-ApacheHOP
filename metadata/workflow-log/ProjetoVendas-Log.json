@@ -1,0 +1,12 @@
+{
+  "virtualPath": "",
+  "loggingParentsOnly": false,
+  "name": "ProjetoVendas-Log",
+  "workflowToLog": [],
+  "intervalInSeconds": "30",
+  "executingPeriodically": false,
+  "pipelineFilename": "${PROJECT_HOME}/pipelines/extras/WorkflowLogs.hpl",
+  "executingAtEnd": true,
+  "enabled": true,
+  "executingAtStart": true
+}
