@@ -308,18 +308,6 @@ Data Warehouse Executado com Sucesso 18:14
 │       ├── workflowdimensoes.hwf
 │       ├── workflowfatos.hwf
 │       └── workflowprincipal.hwf
-├── /docs
-│   ├── DiagramaProjetoHOP.pdf
-│   └── Explicacao_Projeto.pdf
-├── /scripts
-│   ├── create_tables_stage.sql
-│   ├── create_tables_dw.sql
-│   └── carga_incremental.sql
-├── /images
-│   ├── notificacao_telegram.png
-│   ├── tabelas_postgres.png
-│   ├── tabelas_stage.png
-│   └── tabelas_dw.png
 └── README.md
 ```
 
